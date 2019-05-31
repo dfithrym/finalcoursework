@@ -12,7 +12,8 @@ def crawl_data(url, second=5):
     # specify the url
 
     # The path to where you have your chrome webdriver stored:
-    webdriver_path = '/usr/local/bin/chromedriver'
+    webdriver_path = 'D:/DZ.2/chromedriver.exe'
+'
 
     # Add arguments telling Selenium to not actually open a window
     chrome_options = Options()
